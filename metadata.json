@@ -1,0 +1,6 @@
+{
+  "name": "snik",
+  "description": "A production-grade cyber-luxury marketplace for digital sneakers, featuring virtual drops, live market analytics, and an integrated Express.js-PostgreSQL backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
