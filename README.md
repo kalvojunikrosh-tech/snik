@@ -35,7 +35,7 @@ Create a `.env.local` file in the root directory and add your Gemini API key:
 GEMINI_API_KEY=your_api_key_here
 ```
 
-You can obtain your API key from [Google AI Studio](https://ai.google.dev).
+You can obtain your API key from [Google Gemini](https://gemini.google.com).
 
 ### 4. Run the Development Server
 
